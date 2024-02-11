@@ -72,4 +72,5 @@ git branch - команда, которая выводит ветки
 branch - ветка
 =======
 git branch name - создание ветки
->>>>>>> Error
+
+GitHub
